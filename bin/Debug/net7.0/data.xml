@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Company xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Google</Name>
+  <Country>USA</Country>
+  <Direction>Techno</Direction>
+  <Staffs>1000</Staffs>
+  <Money>38484538568542345</Money>
+</Company>
